@@ -1,0 +1,12 @@
+3.9 !! K
+1.91 !! C1
+1.49 !! C2
+0.0029 !! C3
+11 !! C4
+1191 !! a(K)
+0.064 !! m
+11.7 !! alpha
+296.d0 !! Temperature
+500 !! numbers of strain domain
+1.1 !! strain simulation interval
+0.001 !! strain rate 

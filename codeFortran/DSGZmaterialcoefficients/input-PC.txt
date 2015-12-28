@@ -1,0 +1,21 @@
+0.901 !strain-strain for computing C1 and C2, on the same curve, stress 1
+0.952 !strain 2
+1.0 !strain 3
+113.47 !stress 1
+126.5 !stress 2
+141.0 !stress 3
+0 !initial guess C1
+3 !initial guess C2
+1.d-3 !strain rate 1, the following data is for computing m
+5.d-4 !strain rate 2
+0.18 !strain
+62.18 !stress 1
+59.65 !stress 2
+296 !temperature 1 , for computing a,strain rate=0.001,strain=0.662
+348 !temperature 2
+59.758 !stress 1
+43.758 !stress 2
+0.001 !strain rate for computing K
+0.083 !yield strain for computing softening C3
+0.5  ! end point -strain of softening for computing alpha
+7 !computing C4, glassy polymer =7, semicrystalline polymer = 200
